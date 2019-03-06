@@ -73,7 +73,7 @@ text-decoration:underline;
 	}
 .phn-status-bar{
     padding: 5px 0;
-    background: #b377d9 !important;
+    background: #d63965 !important;
 }
 .float-stn1{
     width: 33.3333333%;
@@ -236,7 +236,7 @@ h5.pro-link {
     border: none;
 }
 .wrapper-dropdown-1 .dropdown li a:hover, .wrapper-dropdown-2 .dropdown li a:hover, .wrapper-dropdown-3 .dropdown li a:hover, .wrapper-dropdown-4 .dropdown li a:hover, .wrapper-dropdown-5 .dropdown li a:hover{
-	color:#b377d9;
+	color:#d63965;
 }
 /* Active state */
 .wrapper-dropdown-1.active:after,.wrapper-dropdown-2.active:after,.wrapper-dropdown-3.active:after,.wrapper-dropdown-4.active:after,.wrapper-dropdown-5.active:after{
@@ -253,7 +253,7 @@ h5.pro-link {
 }
 .menu-notify {
     padding: 6px 0;
-    background: #b377d9 !important;
+    background: #d63965 !important;
 }
 
 .panel {
@@ -271,7 +271,7 @@ h5.pro-link {
 	z-index:999;
 }
 .search {
-    background: #B377D9;
+    background: #d63965;
     border-radius: 100px;
 }
 .search input[type="search"] {
@@ -322,7 +322,7 @@ h5.pro-link {
     line-height: 20px;
     color: #fff;
     text-align: center;
-    background-color: #B377D9;
+    background-color: #d63965;
 }
 .pro-menu p{
 	color:#fff;
@@ -376,7 +376,7 @@ h5.pro-link {
 	font-size:14px;
 }
 .menu-accor ul li a:hover{
-	color:#b377d9;
+	color:#d63965;
 }
 /*-- details --*/
 .details-left {
@@ -385,7 +385,7 @@ h5.pro-link {
     text-align: center;
 }
 .border-effect {
-    border: 2px solid #B377D9;
+    border: 2px solid #d63965;
     padding: 9px;
     border-left: 2px solid #D0D0D0;
     border-bottom: 2px solid #D0D0D0;
@@ -444,7 +444,7 @@ h5.pro-link {
     line-height: inherit;
     color: #fff;
     text-align: center;
-    background-color: #B377D9;
+    background-color: #d63965;
     -webkit-box-shadow: none;
     box-shadow: none;
     -webkit-transition: width .6s ease;
@@ -481,7 +481,7 @@ h5.pro-link {
 	border-right:1px solid #ccc;
 }
 .follow-left h3 {
-    color: #B377D9;
+    color: #d63965;
     margin-bottom: 15px;
     font-size: 22px;
     font-weight: 500;
@@ -515,7 +515,7 @@ padding:8px 0;
     width: 64%;
 }
 .goal-info h4 {
-    color: #B377D9;
+    color: #d63965;
     font-size: 19px;
     margin: 6px 0 12px 0px;
     font-weight: 500;
@@ -690,7 +690,7 @@ padding:8px 0;
     width: 50%;
 }
 .programs h1 {
-    color: #B377D9;
+    color: #d63965;
     font-size: 24px;
     margin-bottom: 30px;
     text-indent: 1em;
@@ -825,7 +825,7 @@ padding:8px 0;
     padding: 15px 0;
     display: inline-block;
     border-bottom: 1px solid #D490FF;
-    background: #B377D9;
+    background: #d63965;
     transition: all linear 0.15s;
     font-size: 14px;
     color: #fff;
@@ -846,7 +846,7 @@ padding:8px 0;
 .accordion-section-content {
     padding: 15px;
     display: none;
-    border: 1px solid #B377D9;
+    border: 1px solid #d63965;
     border-top: none;
     background: #fff;
 }
@@ -968,7 +968,7 @@ p.tit-one:before{
     margin: 0 4% 0 0;
 }
 p.tit-two:before{
-    background: #B377D9;
+    background: #d63965;
     width: 13px;
     height: 13px;
     display: inline-block;
@@ -1010,7 +1010,7 @@ p.tit-two:before{
 .about-gd-left h5 {
     color: #fff;
     font-size: 1.5em;
-    background: #B377D9;
+    background: #d63965;
     padding: 20px 0;
 }
 .about-gd-right p {
@@ -1113,7 +1113,7 @@ a.signup-btn:focus, a.signup-btn:hover{
     border: none;
     font-size: 16px;
     color: #fff;
-    background: #B377D9;
+    background: #d63965;
     width: 100%;
     padding: 22px 0;
     text-align: center;	
@@ -1183,7 +1183,7 @@ a.signup-btn:focus, a.signup-btn:hover{
 }
 .like-icons {
     margin-top: 30px;
-    background: #B377D9;
+    background: #d63965;
 }
 .like-icons ul li p {
     margin-top: 22px;
