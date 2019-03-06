@@ -258,7 +258,7 @@ h5.pro-link {
 
 .panel {
     margin-bottom: 0px;
-    background: #402245;
+    background: #8a384f;
     width: auto;
     height: 780px !important;
     width: 15.625em !important;
@@ -494,7 +494,7 @@ h5.pro-link {
 /*-- //follow --*/
 /*-- goals --*/
 .goals {
-    background:#402245;
+    background:#8a384f;
 	border-bottom:1px solid #000;
 }
 .phn-status-bar2{
@@ -835,7 +835,7 @@ padding:8px 0;
 
 .accordion-section-title.active, .accordion-section-title:hover,.accordion-section-title.focus {
     color: #fff;
-	background:#402245;
+	background:#8a384f;
 	text-decoration:none;
 }
 
@@ -1030,7 +1030,7 @@ p.tit-two:before{
     font-size: 38px;
     color: #fff;
     text-align: center;
-    background: #402245;
+    background: #8a384f;
     padding: 29px 33px;
     border-radius: 100%;
     margin-top: 49px;
@@ -1079,7 +1079,7 @@ input.name {
     padding: 11px;
     display: inline-block;
 	font-size:14px;
-	color:#402245;
+	color:#8a384f;
 }
 input.email,input.password,input.number{
    width: 100%;
@@ -1089,7 +1089,7 @@ input.email,input.password,input.number{
     outline: none;
     padding: 12px; 
 	font-size:14px;
-	color:#402245;
+	color:#8a384f;
 }
 a.signup-btn {
     background-color: #F5245C;
@@ -1126,7 +1126,7 @@ a.signup-btn:focus, a.signup-btn:hover{
     transition: all .5s;
 }
 .signup-bottom input[type=submit]:hover{
-	background: #402245;
+	background: #8a384f;
 }
 /*-- //contact --*/
 /*-- parker --*/
@@ -1174,7 +1174,7 @@ a.signup-btn:focus, a.signup-btn:hover{
     border-left: 1px solid #D099F3;
 }
 .like-icons ul li a{
-    background: #402245;
+    background: #8a384f;
     padding:14px 15px;
 	}
 .like-icons ul li i{
